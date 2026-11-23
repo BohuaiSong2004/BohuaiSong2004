@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Bohuai Song
 
-<!--
-**BohuaiSong2004/BohuaiSong2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | UCLA Computational Mathematics
 
-Here are some ideas to get you started:
+I build full-stack and distributed systems with a focus on backend services, microservices, and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[OpenCourse](https://github.com/BohuaiSong2004/online-course-system)** — Corporate e-learning platform with Next.js micro-frontends and Spring Boot. Optimized query latency from 800 ms to 45 ms with B-tree indexes and MyBatis caching.
+- **[Waypoint](https://github.com/BohuaiSong2004/study-abroad-assistant)** — Study abroad application assistant with Go microservices, DynamoDB, and real-time timeline sync. Achieved ~4× read throughput with a DAX-style cache.
+
+## Tech Stack
+
+**Languages:** Java, Go, TypeScript, Python, C++
+
+**Backend:** Spring Boot, gRPC, MyBatis, MySQL, Redis, DynamoDB
+
+**Frontend:** Next.js, React, Tailwind
+
+**Infrastructure:** Docker, Kubernetes, Terraform, AWS (ECS, RDS, ElastiCache, DAX)
+
+**Other:** JWT, Playwright, Flyway, CI/CD
+
+## Contact
+
+- Email: bohuaisong0829@gmail.com
+- UCLA: bohuai2004@ucla.edu
