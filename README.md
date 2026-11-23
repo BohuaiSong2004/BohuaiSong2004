@@ -27,4 +27,4 @@ I build full-stack and distributed systems with a focus on backend services, mic
 
 - Email: bohuaisong0829@gmail.com
 - UCLA: bohuai2004@ucla.edu
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: https://www.linkedin.com/in/bohuaisong
