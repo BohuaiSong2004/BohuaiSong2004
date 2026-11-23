@@ -4,6 +4,8 @@ Software Engineer | UCLA Computational Mathematics
 
 I build full-stack and distributed systems with a focus on backend services, microservices, and performance.
 
+**Open to internship opportunities.**
+
 ## Projects
 
 - **[OpenCourse](https://github.com/BohuaiSong2004/online-course-system)** — Corporate e-learning platform with Next.js micro-frontends and Spring Boot. Optimized query latency from 800 ms to 45 ms with B-tree indexes and MyBatis caching.
@@ -25,3 +27,4 @@ I build full-stack and distributed systems with a focus on backend services, mic
 
 - Email: bohuaisong0829@gmail.com
 - UCLA: bohuai2004@ucla.edu
+- LinkedIn: [Add your LinkedIn URL here]
