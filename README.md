@@ -4,7 +4,7 @@ Software Engineer | UCLA Computational Mathematics
 
 I build full-stack and distributed systems with a focus on backend services, microservices, and performance.
 
-**Open to internship opportunities.**
+**Open to opportunities.**
 
 ## Projects
 
